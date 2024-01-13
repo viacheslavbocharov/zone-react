@@ -1,0 +1,25 @@
+:root {
+  --ff: "DM Sans", sans-serif;
+  --ff-rubik: 'Rubik', sans-serif;
+  --c-black: #000;
+  --c-white: #fff;
+  --c-background: #111827;
+  --c-link: #f9fafb;
+  --c-desc: #E5E7EB;
+  --c-footer-text: rgba(255, 255, 255, 0.80);
+
+  font-family: DM Sans;
+}
+
+$Accent-2: #667085;
+
+$c-headline: #344054;
+$c-field-border: #d0d5dd;
+$c-primary: #5429ff;
+
+$desktop: 1400px;
+$desktop-small: 1200px;
+$tablet: 992px;
+$tablet-small: 768px;
+$mobile: 576px;
+$min-mobile: 320px;
